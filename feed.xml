@@ -2,12 +2,12 @@
 <rss version="2.0">
   <channel>
     <title>My Kindle Feed</title>
-    <link>https://rmayur777.github.io/my-kindle-rss/</link>
+    <link>https://rmayur777.github.io/my-kindle-rss</link>
     <description>Articles I want to read on Kindle</description>
 
     <item>
       <title>Example Article</title>
-      <link>https://example.com/article</link>
+      <link>cyjfdsj</link>
       <description>This is an example article.</description>
       <pubDate>Sat, 12 Apr 2025 10:00:00 +0000</pubDate>
     </item>
